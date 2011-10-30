@@ -34,7 +34,7 @@
 				
 				<div style="float: right; width: 250px;">
 					<a href="https://twitter.com/johnclarkemills" data-link-color="#FFFFFF" class="twitter-follow-button">Follow @johnclarkemills</a>
-					<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script
+					<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
 				</div>
 			</div>
 			<!-- Header End-->

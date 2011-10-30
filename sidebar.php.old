@@ -1,0 +1,43 @@
+			<!-- Sidebar Start -->
+				<div id="sidebar">
+<script type="text/javascript"><!--
+google_ad_client = "pub-6910113458656880";
+/* smaller text */
+google_ad_slot = "3019388622";
+google_ad_width = 250;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				<div class="rightPan">
+				<span class="stc">&nbsp;</span>
+					<h3>Browse by Categories</h3>				
+					<ul>
+						<?php wp_list_categories('show_count=1&title_li='); ?>
+					</ul>
+				<div class="gbc"><span class="sbc">&nbsp;</span></div>
+				</div>			
+
+				<?php	if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Sidebar 2') ) : ?>					
+
+				<div class="rightPan">
+				<span class="stc">&nbsp;</span>	
+				<h3>Other blogs</h3>
+				<ul>
+								
+					<?php wp_list_bookmarks('categorize=0&title_li='); ?>
+
+
+				</ul>
+				<?php endif; ?>
+				
+				<div class="gbc"><span class="sbc">&nbsp;</span></div>
+				</div>	
+				<?php	if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('Sidebar 1') ) : ?>
+  			
+				<?php endif; ?>					 
+				
+			</div>
+			<!-- Sidebar End -->

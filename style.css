@@ -1,17 +1,8 @@
 /*
-Theme Name: Love The Orange
-Theme URI:
-Description: A clean and user friendly theme which highlights the blog content and user comments so beautifully. Made simple so anyone can maintain it easily, feel free to contact for additional support at <a href="http://www.webdesigncreatives.com">Web Design Creatives</a>.
-Version: 1.2
-Author: Web Design Creatives
-Author URI: http://www.webdesigncreatives.com
-Tags: white, orange, two-columns, fixed-width, right-sidebar
-*/
-
-/* Changelog
-- Comments off adjustment when it's in <span> tag.
-- Search button fix
-- Tiny margin-padding fixes for few tags
+Theme Name: San Fran Vic Blog
+Version: 1.1
+Author: John Clarke Mills - modified from Web Design Creatives (http://www.webdesigncreatives.com)
+Author URI: http://www.johnclarkemills.com
 */
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, fieldset, form, label, legend, p, blockquote, pre, a, abbr, acronym, address, code, del, em, img, dl, dt, dd, ol, ul, li, table, caption, tbody, tfoot, thead, tr, th, td  {
@@ -328,7 +319,7 @@ ul.globalNav li a:hover {
 	height:7px;
 }
 #mainNav ul {
-	width:600px;
+	width:500px;
 	float:left;
 	}
 #mainNav li {

@@ -12,6 +12,7 @@
 				  <?php the_content(); ?>
 				</div>
 				<div class="postmetadata">
+				    <br/><br/>
 					Author: <b><?php the_author(); ?></b><br />
 					Filed Under Category: <?php the_category(', ') ?><br/>
 					Comments: <?php comments_popup_link('No comments', '1 comment', '% comments'); ?>

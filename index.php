@@ -13,6 +13,7 @@
 						<?php the_content('Read the rest of this entry &raquo;'); ?>
 					</div>
 					<div class="postmetadata">
+						<br/><br/>
 						Author: <b><?php the_author(); ?></b><br />
 						Filed Under Category: <?php the_category(', ') ?><br/>
 						<!-- Article <?php the_tags(); ?><br/> -->

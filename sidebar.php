@@ -13,6 +13,12 @@
 			</div>
 						
 			<div class="rightPan">
+				<a href="http://nation.bobvila.com/blog/san-francisco-victorian">
+					<div class="bob-vila">&nbsp;</div>
+				</a>
+			</div>
+			
+			<div class="rightPan">
 				<span class="stc">&nbsp;</span>
 					<h3>Browse by Room</h3>				
 					<ul>

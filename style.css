@@ -52,6 +52,12 @@ h2 {
 	margin:20px auto 20px auto;	
 	width:850px;
 }
+.bob-vila {
+	background:url(images/bobvila-author.png) top right no-repeat;
+	height: 100px;
+	width: 250px;
+}
+
 .tc{
 	background:url(images/top-curve.gif) top right no-repeat;
 	height: 8px;
